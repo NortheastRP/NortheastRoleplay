@@ -1,42 +1,73 @@
-# 🚔 Northeast Roleplay (NERP)
+# Northeast Roleplay (NERP) - Development Roadmap
 
-Welcome to the official development roadmap for Northeast Roleplay (NERP).
+Welcome to the official development roadmap for **Northeast Roleplay (NERP)**.
 
----
-
-## 📌 Overview
-This repository provides a structured roadmap, development plans, and documentation for NERP. Our goal is to build a high-quality, realistic, and engaging roleplay experience prior to public launch.
+This repository outlines the full structured development plan for **Version 1.0**, which will serve as the foundation for our initial release.
 
 ---
 
-## 🗺️ Roadmap Phases
-- [Phase 1: Foundation (Pre-Launch)](ROADMAP/PHASE_1_FOUNDATION.md)
-- [Phase 2: Expansion](ROADMAP/PHASE_2_EXPANSION.md)
-- [Phase 3: Immersion & Realism](ROADMAP/PHASE_3_IMMERSION.md)
-- [Phase 4: Community Growth](ROADMAP/PHASE_4_COMMUNITY.md)
-- [Phase 5: Long-Term Vision](ROADMAP/PHASE_5_LONG_TERM.md)
+## 📌 Versioning Overview
+
+- **Version 1.0** → Full Release Build
+- **Versions 1.001 – 1.099** → Patch Fixes / Stability Updates
+- **Version 2.0** → Major Content Expansion & Overhaul
 
 ---
 
-## 🛠️ Development Docs
-- [Workflow](DEVELOPMENT/WORKFLOW.md)
-- [Branching Strategy](DEVELOPMENT/BRANCHING.md)
-- [Contributing](DEVELOPMENT/CONTRIBUTING.md)
+## 🚧 Development Phases
+
+### 🔹 Phase 1 – Core Development ✅ COMPLETED
+➡️ [View Phase 1](./phases/phase1-core-development.md)
 
 ---
 
-## 📢 Current Status
-NERP is currently in **Phase 1: Foundation (Pre-Launch)**
+### 🔹 Phase 2 – Prelaunch Systems 🟡 IN PROGRESS
+➡️ [View Phase 2](./phases/phase2-prelaunch-systems.md)
 
 ---
 
-## 🚀 Current Focus
-- Core server stability
-- Base department setup
-- Internal testing
-- Staff structure
+### 🔹 Phase 3 – Roleplay Expansion 🟡 IN PROGRESS
+➡️ [View Phase 3](./phases/phase3-roleplay-expansion.md)
 
 ---
 
-## 💬 Community Involvement
-Community access will open after initial development milestones are completed.
+### 🔹 Phase 4 – Testing & Optimization
+➡️ [View Phase 4](./phases/phase4-testing-optimization.md)
+
+---
+
+### 🔹 Phase 5 – Launch Preparation
+➡️ [View Phase 5](./phases/phase5-launch-prep.md)
+
+---
+
+## 📊 Development Status
+
+| Phase | Status |
+|------|--------|
+| Phase 1 | 🟢 Completed |
+| Phase 2 | 🟡 In Progress |
+| Phase 3 | 🟡 In Progress |
+| Phase 4 | ⚪ Not Started |
+| Phase 5 | ⚪ Not Started |
+
+---
+
+> ⚠️ Note:
+> Development in NERP is **non-linear**. Phase 2 (core systems) and Phase 3 (advanced roleplay features) are being developed **in parallel** to speed up progress and allow early testing of complex systems.
+
+---
+
+## 🔥 Current Development Focus
+
+- Finalizing core player systems (housing, MDT, inventory)
+- Building advanced roleplay features (jobs, heists, DOJ)
+- Department development and internal structure setup
+
+---
+
+## 🎯 Goal
+
+To create a **high-quality, non-pay-to-win, immersive roleplay experience** focused on realism, fairness, and innovation.
+
+---
