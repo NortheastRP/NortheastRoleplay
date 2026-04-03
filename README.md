@@ -53,6 +53,18 @@ This repository outlines the full structured development plan for **Version 1.0*
 
 ---
 
+## 📌 Versioning Strategy
+
+NERP follows a structured versioning system to ensure stability and clarity throughout development.
+
+- **v1.0** → Initial full release build
+- **v1.001 – v1.099** → Patch fixes, bug fixes, and minor improvements
+- **v2.0** → Major updates, new systems, and large-scale expansions
+
+This approach ensures that Version 1.0 remains stable while allowing continuous improvements without disrupting the core experience.
+
+➡️ [View Full Versioning Strategy](./versioning/versioning-strategy.md)
+
 > ⚠️ Note:
 > Development in NERP is **non-linear**. Phase 2 (core systems) and Phase 3 (advanced roleplay features) are being developed **in parallel** to speed up progress and allow early testing of complex systems.
 
